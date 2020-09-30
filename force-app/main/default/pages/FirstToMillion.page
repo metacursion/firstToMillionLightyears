@@ -1,0 +1,6 @@
+<!--
+ - Created by heyoo on 31/08/20.
+ -->
+<apex:page controller="FirstToMillion" readOnly="true" contentType="application/json">
+    {!Leads}
+</apex:page>
